@@ -38,7 +38,7 @@ The repository also contains a Solidity ERC-721 souvenir contract, Thirdweb embe
 
 | Item | Answer / status |
 | --- | --- |
-| Source code | https://github.com/2manslkh/tagtag — selected in the form; the public page returned HTTP 200 on 2026-09-26. Push the final commit before submitting. |
+| Source code | https://github.com/2manslkh/tagtag — the repository was renamed from ethglobal-tokyo-2026. Verify the submission form points to the intended repository before submitting. |
 | Demonstration link | Use the existing [TestFlight invitation](https://testflight.apple.com/join/cUnAbdSY), per the owner's choice. The recorded external build is **Waiting for Review** and predates the latest location and AR changes; keep that limitation visible in the description. |
 | Demo video | To be recorded. The finalist Video step is required and blocks final submission. See [DEMO_VIDEO.md](DEMO_VIDEO.md). |
 | Logo | [logo.png](logo.png), the actual 512×512 app icon; uploaded. |
